@@ -1,3 +1,6 @@
+tradplusad.com,d0662e074ed3ed0b,DIRECT
+pubmatic.com, 160692, RESELLER, 5d62403b186f2ace
+
 facebook.com, 433285445531880, DIRECT, c3e20eee3f780d68
 
 
